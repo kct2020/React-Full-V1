@@ -11,7 +11,7 @@ Next, following amended instructions from the [Vue Full V1 example](https://gith
 
 ```bash
 git clone git@github.com:vikejs/vike
-cd vike/examples/vue-full-v1/
+cd vike/examples/react-full-v1/
 npm install
 npm run dev
 ```
